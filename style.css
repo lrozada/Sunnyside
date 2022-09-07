@@ -18,7 +18,6 @@
     display: flex;
     justify-content: space-between;
     padding: 1.5em;
-
 }
 
 .navbar {
@@ -45,7 +44,6 @@
 
 .weAreCreatives {
     background-image: url("../sunnyside-agency-landing-page-main/images/mobile/image-header.jpg");
-
     height: 538px;
     color: hsl(0, 0%, 100%);
 
